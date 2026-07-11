@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
     int l,b; 
-    cout << "Enter the Length of a Rectangle: "; 
+    cout << "Enter the Length of a Rectangle : "; 
     cin >> l; 
-    cout << "Enter the Bredth of A Rectangle: "; 
+    cout << "Enter the Bredth of A Rectangle : "; 
     cin >> b;
     
     int A = l*b; 
