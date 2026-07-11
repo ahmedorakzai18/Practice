@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std; 
+int main()
+{
+  cout << "Hello World/nI have started to learn a little about git and github"; 
+
+return 0; 
+}
