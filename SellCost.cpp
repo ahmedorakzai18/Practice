@@ -3,10 +3,10 @@ using namespace std;
 int main()
 {
     int CP,SP; 
-    cout << "Enter the Cost Price of the Product: "; 
+    cout << "Enter the Cost Price of the Product : "; 
     cin >> CP; 
     
-    cout << "Enter the Sell Price of the Product: "; 
+    cout << "Enter the Sell Price of the Product : "; 
     cin >> SP; 
 
     int Profit=SP-CP; 
